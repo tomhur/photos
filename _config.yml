@@ -1,12 +1,12 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Tommy Hurtig
+email: "tommy@hurtig.xyz"
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://tomhur.github.io"
+baseurl: "/photos"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "tommyhurtig.xyz"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Tommy Hurtig
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: photography website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -27,15 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://tomhur.github.io/photos/gallery/"  
+  - JOURNAL: "https://tomhur.github.io/photos/journal/"
+  - ABOUT: "https://tomhur.github.io/photos/about/"
 
 # All translation keys
 translations:
