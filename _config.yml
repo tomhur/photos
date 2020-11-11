@@ -4,13 +4,13 @@ email: "tommy@hurtig.xyz"
 description: "Photo Journal"
 url: "https://tomhur.github.io"
 baseurl: "/photos"
-facebook_username: ""
-twitter_username: ""
+#facebook_username: ""
+#twitter_username: ""
 instagram_username: "tommyhurtig.xyz"
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+#github_username:  ""
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://tomhur.github.io/photos/gallery/"  
-  - JOURNAL: "https://tomhur.github.io/photos/journal/"
+#  - JOURNAL: "https://tomhur.github.io/photos/journal/"
   - ABOUT: "https://tomhur.github.io/photos/about/"
 
 # All translation keys
