@@ -2,8 +2,8 @@
 title: Tommy Hurtig
 email: "tommy@hurtig.xyz"
 description: "Photo Journal"
-url: "https://tomhur.github.io"
-baseurl: "/photos"
+url: "https://hurtig.xyz"
+baseurl: "/"
 #facebook_username: ""
 #twitter_username: ""
 instagram_username: "tommyhurtig.xyz"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://tomhur.github.io/photos/gallery/"  
+  - GALLERY: "https://hurtig.xyz/gallery/"  
 #  - JOURNAL: "https://tomhur.github.io/photos/journal/"
-  - ABOUT: "https://tomhur.github.io/photos/about/"
+  - ABOUT: "https://hurtig.xyz/about/"
 
 # All translation keys
 translations:
